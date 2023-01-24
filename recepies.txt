@@ -2,4 +2,9 @@ welcome
 
 python based recepies
 just a start
+
+practicing
+learning 
+
+
 thankyou
